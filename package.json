@@ -2,10 +2,10 @@
   "name": "notion-ga",
   "version": "1.0.0",
   "dependencies": {
-    "axios": "^0.18.0",
-    "express": "^4.16.4",
-    "express-session": "^1.16.1",
-    "isbot": "^2.2.1",
+    "axios": "^0.18.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "isbot": "^2.5.7",
     "querystring": "^0.2.0"
   },
   "license": "MIT"
