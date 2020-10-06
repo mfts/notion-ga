@@ -2,7 +2,7 @@ const express = require("express");
 const session = require("express-session");
 const app = express();
 const sessionConfig = {
-  secret: "y0uwi1In3v3rkn0w",
+  secret: "y0uwi1In3v3rkn0wm3",
   cookie: {}
 };
 
